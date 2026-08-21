@@ -1,0 +1,14 @@
+**Money Exchange Program**
+https://miro.com/app/board/uXjVHv5k3pw=/?share_link_id=170721941175
+![alt text](MoneyExchange.jpg)
+
+Description of the Use Case Diagram
+
+The Use Case Diagram represents the Money Exchange System and shows how two main actors, Admin and Customer, interact with the system.
+
+Admin can log in, view exchange rates, view transactions, manage customers, manage currencies, manage exchange rates, and process exchange transactions.
+Customer can log in, view exchange rates, view transactions, and process exchange transactions.
+Process Exchange Transaction includes Calculate Converted Amount because the system must calculate the converted amount when an exchange transaction is processed.
+The system uses the exchange rate to calculate the amount of the target currency.
+
+Overall, the diagram shows the main functions of the Money Exchange System and the activities that can be performed by the Admin and Customer.
