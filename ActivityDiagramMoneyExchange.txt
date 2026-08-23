@@ -1,0 +1,21 @@
+Money Exchange Project
+
+https://miro.com/app/board/uXjVHvGkw90=/?share_link_id=68917217658
+
+Total Activity Diagrams: 2
+
+1. Activity Diagram – Currency Exchange Process
+
+Purpose: Shows how a user exchanges one currency for another.
+Process: Select currency → Enter amount → Validate → Get exchange rate → Calculate → Confirm → Save transaction.
+Main Actor: User
+
+2. Activity Diagram – Currency & Exchange Rate Management
+
+Purpose: Shows how an administrator manages currencies and exchange rates.
+Process: Admin login → Add/Update/Delete currency or rate → Validate → Save changes.
+Main Actor: Administrator
+
+Diagram	Process	Main Actor
+Activity Diagram 1	Currency Exchange	User
+Activity Diagram 2	Currency & Exchange Rate Management	Administrator
