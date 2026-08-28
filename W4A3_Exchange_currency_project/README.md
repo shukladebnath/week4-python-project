@@ -10,7 +10,7 @@ One class diagram is sufficient because the project focuses on the main business
 
 The class diagram represents the object-oriented design of the Money Exchange System.
 
-It is based on the project scope and the use cases from the W3-A5 project, including:
+It is based on the project scope and the use cases from the W4-A3 project, including:
 
 - Login
 - View Exchange Rates
